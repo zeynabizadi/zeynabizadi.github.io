@@ -1,4 +1,4 @@
-# Ali Pakdelnia - Full Stack Developer Portfolio 🚀
+# Zeynab Izadi - Full Stack Developer Portfolio 🚀
 
 A modern, responsive, multi-language portfolio website showcasing my expertise as a Full Stack Developer and Android Developer. Built with cutting-edge technologies and optimized for SEO performance.
 
@@ -107,7 +107,7 @@ myportfolio/
 1. Add new language object to `translations` in `assets/js/translations.js`:
    ```javascript
    fr: {
-     "hero_title": "Ali Pakdelnia",
+     "hero_title": "Zeynab Izadi",
      "about_title": "À propos",
      // ... more translations
    }
@@ -162,4 +162,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ by Ali Pakdelnia**
+**Built with ❤️ by Zeynab Izadi**

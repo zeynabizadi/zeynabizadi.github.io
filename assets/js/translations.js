@@ -1,4 +1,4 @@
-// ترجمه‌های سایت علی پاکدل نیا
+// ترجمه‌های سایت زینب ایزدی
 const translations = {
   en: {
     // Navigation
@@ -13,7 +13,7 @@ const translations = {
     "nav_contact": "Contact",
     
     // Header & Navigation
-    "hero_title": "Ali Pakdelnia",
+    "hero_title": "Zeynab Izadi",
     "hero_subtitle": "I'm a",
     "hero_typed_items": "Full Stack Developer,Android Developer,.NET Developer,Problem Solver,Freelancer",
     
@@ -73,7 +73,7 @@ const translations = {
     "resume_title": "Resume",
     "resume_description": "My professional journey spans over a decade of software development, focusing on creating innovative solutions and delivering exceptional user experiences across multiple platforms.",
     "summary_title": "Summary",
-    "summary_name": "Ali Pakdelnia",
+    "summary_name": "Zeynab Izadi",
     "summary_description": "Innovative Android developer with strong proficiency in Kotlin and extensive experience in building exceptional mobile applications. Passionate about technology and creating user-friendly, intuitive apps that seamlessly interact with device functionalities.",
     
     "education_title": "Education",
@@ -142,13 +142,13 @@ const translations = {
     "nav_contact": "تماس",
     
     // Header & Navigation
-    "hero_title": "علی پاکدل نیا",
+    "hero_title": "زینب ایزدی",
     "hero_subtitle": "من یک",
     "hero_typed_items": "برنامه‌نویس فول استک,توسعه‌دهنده اندروید,برنامه‌نویس .NET,حل‌کننده مشکلات,فریلنسر",
     
     // About Section
-    "about_title": "درباره علی پاکدل نیا",
-    "about_description": "علی پاکدل نیا - برنامه‌نویس فول استک با تجربه در توسعه اندروید و وب. در حال حاضر با چندین شرکت همکاری می‌کنم و پروژه‌های فریلنسری می‌پذیرم. من در ایجاد راه‌حل‌های جامع در تمام پلتفرم‌ها تخصص دارم.",
+    "about_title": "درباره زینب ایزدی",
+    "about_description": "زینب ایزدی - برنامه‌نویس فول استک با تجربه در توسعه اندروید و وب. در حال حاضر با چندین شرکت همکاری می‌کنم و پروژه‌های فریلنسری می‌پذیرم. من در ایجاد راه‌حل‌های جامع در تمام پلتفرم‌ها تخصص دارم.",
     "about_subtitle": "برنامه‌نویس فول استک و متخصص اندروید",
     
     // Personal Info
@@ -173,7 +173,7 @@ const translations = {
     "stats_experience_subtitle": "یادگیری مستمر",
     
     // Skills
-    "technical_skills_title": "مهارت‌های فنی علی پاکدل نیا",
+    "technical_skills_title": "مهارت‌های فنی زینب ایزدی",
     "technical_skills_description": "تخصص فنی من در چندین پلتفرم و تکنولوژی گسترش یافته است، که به من امکان ارائه راه‌حل‌های جامع را می‌دهد",
     "fullstack_skill": "توسعه فول استک",
     "android_skill": "اندروید/کاتلین",
@@ -202,7 +202,7 @@ const translations = {
     "resume_title": "رزومه",
     "resume_description": "سفر حرفه‌ای من بیش از یک دهه توسعه نرم‌افزار را در بر می‌گیرد، با تمرکز بر ایجاد راه‌حل‌های نوآورانه و ارائه تجربیات کاربری استثنایی در چندین پلتفرم.",
     "summary_title": "خلاصه",
-    "summary_name": "علی پاکدل نیا",
+    "summary_name": "زینب ایزدی",
     "summary_description": "توسعه‌دهنده نوآور اندروید با تسلط قوی در کاتلین و تجربه گسترده در ساخت برنامه‌های موبایل استثنایی. مشتاق فناوری و ایجاد برنامه‌های کاربرپسند و شهودی که به طور یکپارچه با عملکردهای دستگاه تعامل دارند.",
     
     "education_title": "تحصیلات",
@@ -271,12 +271,12 @@ const translations = {
     "nav_contact": "اتصل بنا",
     
     // Header & Navigation
-    "hero_title": "علي باكدل نيا",
+    "hero_title": "زينب ايزدي",
     "hero_subtitle": "أنا",
     "hero_typed_items": "مطور ويب شامل,مطور أندرويد,مطور .NET,حلال المشاكل,مستقل",
     
     // About Section
-    "about_title": "حول علي باكدل نيا",
+    "about_title": "حول زينب ايزدي",
     "about_description": "علي باكدل نيا - مطور ويب شامل ذو خبرة في تطوير الأندرويد والويب. أعمل حالياً مع عدة شركات وأقبل مشاريع مستقلة. أتخصص في إنشاء حلول شاملة عبر جميع المنصات.",
     "about_subtitle": "مطور ويب شامل ومتخصص أندرويد",
     
@@ -302,7 +302,7 @@ const translations = {
     "stats_experience_subtitle": "تعلم مستمر",
     
     // Skills
-    "technical_skills_title": "المهارات التقنية لعلي باكدل نيا",
+    "technical_skills_title": "المهارات التقنية لزينب ايزدي",
     "technical_skills_description": "خبرتي التقنية تمتد عبر منصات وتقنيات متعددة، مما يتيح لي تقديم حلول شاملة",
     "fullstack_skill": "التطوير الشامل",
     "android_skill": "أندرويد/كوتلين",
@@ -331,7 +331,7 @@ const translations = {
     "resume_title": "السيرة الذاتية",
     "resume_description": "رحلتي المهنية تمتد لأكثر من عقد من تطوير البرمجيات، مع التركيز على إنشاء حلول مبتكرة وتقديم تجارب مستخدم استثنائية عبر منصات متعددة.",
     "summary_title": "الملخص",
-    "summary_name": "علي باكدل نيا",
+    "summary_name": "زينب ايزدي",
     "summary_description": "مطور أندرويد مبتكر مع إتقان قوي للكوتلين وخبرة واسعة في بناء تطبيقات موبايل استثنائية. شغوف بالتكنولوجيا وإنشاء تطبيقات سهلة الاستخدام وبديهية تتفاعل بسلاسة مع وظائف الجهاز.",
     
     "education_title": "التعليم",
@@ -400,12 +400,12 @@ const translations = {
     "nav_contact": "Kontakt",
     
     // Header & Navigation
-    "hero_title": "Ali Pakdelnia",
+    "hero_title": "Zeynab Izadi",
     "hero_subtitle": "Ich bin ein",
     "hero_typed_items": "Full Stack Entwickler,Android Entwickler,.NET Entwickler,Problemlöser,Freelancer",
     
     // About Section
-    "about_title": "Über Ali Pakdelnia",
+    "about_title": "Über Zeynab Izadi",
     "about_description": "Erfahrener Full Stack Entwickler mit Expertise in Android- und Webentwicklung. Arbeite derzeit mit mehreren Unternehmen zusammen und nehme Freelance-Projekte an. Ich spezialisiere mich auf die Erstellung umfassender Lösungen für alle Plattformen.",
     "about_subtitle": "Full Stack Entwickler & Android Spezialist",
     
@@ -431,7 +431,7 @@ const translations = {
     "stats_experience_subtitle": "kontinuierliches Lernen",
     
     // Skills
-    "technical_skills_title": "Technische Fähigkeiten von Ali Pakdelnia",
+    "technical_skills_title": "Technische Fähigkeiten von Zeynab Izadi",
     "technical_skills_description": "Meine technische Expertise erstreckt sich über mehrere Plattformen und Technologien, was mir ermöglicht, umfassende Lösungen zu liefern",
     "fullstack_skill": "Full Stack Entwicklung",
     "android_skill": "Android/Kotlin",
@@ -460,7 +460,7 @@ const translations = {
     "resume_title": "Lebenslauf",
     "resume_description": "Meine berufliche Reise erstreckt sich über ein Jahrzehnt der Softwareentwicklung mit Fokus auf die Erstellung innovativer Lösungen und die Bereitstellung außergewöhnlicher Benutzererfahrungen auf mehreren Plattformen.",
     "summary_title": "Zusammenfassung",
-    "summary_name": "Ali Pakdelnia",
+    "summary_name": "Zeynab Izadi",
     "summary_description": "Innovativer Android-Entwickler mit starker Kotlin-Kompetenz und umfangreicher Erfahrung im Aufbau außergewöhnlicher mobiler Anwendungen. Leidenschaftlich für Technologie und die Erstellung benutzerfreundlicher, intuitiver Apps, die nahtlos mit Gerätefunktionen interagieren.",
     
     "education_title": "Ausbildung",
@@ -569,40 +569,40 @@ function changeLanguage(lang) {
 function updateSEOMetaTags(lang) {
   const seoData = {
     en: {
-      title: "Ali Pakdelnia | Full Stack Developer | Android Developer | .NET Core | Kotlin | Tehran",
-      description: "Ali Pakdelnia - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. 5+ years experience in software development. Available for freelance projects.",
-      keywords: "Ali Pakdelnia, Full Stack Developer, Android Developer, .NET Core Developer, Kotlin Developer, React Developer, Angular Developer, JavaScript Developer, TypeScript Developer, Tehran Developer, Iran Developer, Freelance Developer, Web Developer, Mobile Developer, Software Engineer, Tehran, Iran, Portfolio, Resume, Projects, AliFood, AliPool, PsychoApp, Denaru",
-      ogTitle: "Ali Pakdelnia | Full Stack Developer | Android Developer | .NET Core | Kotlin",
-      ogDescription: "Ali Pakdelnia - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular. 5+ years experience. Available for freelance projects.",
-      twitterTitle: "Ali Pakdelnia | Full Stack Developer | Android Developer",
+      title: "Zeynab Izadi | Full Stack Developer | Android Developer | .NET Core | Kotlin | Tehran",
+      description: "Zeynab Izadi - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. 5+ years experience in software development. Available for freelance projects.",
+      keywords: "Zeynab Izadi, Full Stack Developer, Android Developer, .NET Core Developer, Kotlin Developer, React Developer, Angular Developer, JavaScript Developer, TypeScript Developer, Tehran Developer, Iran Developer, Freelance Developer, Web Developer, Mobile Developer, Software Engineer, Tehran, Iran, Portfolio, Resume, Projects, AliFood, AliPool, PsychoApp, Denaru",
+      ogTitle: "Zeynab Izadi | Full Stack Developer | Android Developer | .NET Core | Kotlin",
+      ogDescription: "Zeynab Izadi - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular. 5+ years experience. Available for freelance projects.",
+      twitterTitle: "Zeynab Izadi | Full Stack Developer | Android Developer",
       twitterDescription: "Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular. Available for freelance projects."
     },
     fa: {
-      title: "علی پاکدل نیا | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
-      description: "علی پاکدل نیا - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار، جاوااسکریپت، تایپ‌اسکریپت. بیش از ۵ سال تجربه در توسعه نرم‌افزار. در دسترس برای پروژه‌های فریلنسری.",
-      keywords: "علی پاکدل نیا, برنامه‌نویس فول استک, توسعه‌دهنده اندروید, برنامه‌نویس .NET Core, برنامه‌نویس کاتلین, برنامه‌نویس ری‌اکت, برنامه‌نویس انگولار, برنامه‌نویس جاوااسکریپت, برنامه‌نویس تایپ‌اسکریپت, برنامه‌نویس تهران, برنامه‌نویس ایران, فریلنسر, توسعه‌دهنده وب, توسعه‌دهنده موبایل, مهندس نرم‌افزار, تهران, ایران, نمونه کار, رزومه, پروژه‌ها, علی فود, علی پول, پسیکو اپ, دنارو",
-      ogTitle: "علی پاکدل نیا | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
-      ogDescription: "علی پاکدل نیا - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. بیش از ۵ سال تجربه. در دسترس برای پروژه‌های فریلنسری.",
-      twitterTitle: "علی پاکدل نیا | برنامه‌نویس فول استک | توسعه‌دهنده اندروید",
+      title: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
+      description: "زینب ایزدی - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار، جاوااسکریپت، تایپ‌اسکریپت. بیش از ۵ سال تجربه در توسعه نرم‌افزار. در دسترس برای پروژه‌های فریلنسری.",
+      keywords: "زینب ایزدی, برنامه‌نویس فول استک, توسعه‌دهنده اندروید, برنامه‌نویس .NET Core, برنامه‌نویس کاتلین, برنامه‌نویس ری‌اکت, برنامه‌نویس انگولار, برنامه‌نویس جاوااسکریپت, برنامه‌نویس تایپ‌اسکریپت, برنامه‌نویس تهران, برنامه‌نویس ایران, فریلنسر, توسعه‌دهنده وب, توسعه‌دهنده موبایل, مهندس نرم‌افزار, تهران, ایران, نمونه کار, رزومه, پروژه‌ها, علی فود, علی پول, پسیکو اپ, دنارو",
+      ogTitle: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
+      ogDescription: "زینب ایزدی - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. بیش از ۵ سال تجربه. در دسترس برای پروژه‌های فریلنسری.",
+      twitterTitle: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید",
       twitterDescription: "برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. در دسترس برای پروژه‌های فریلنسری."
     },
     ar: {
-      title: "علي باكدل نيا | مطور ويب شامل | مطور أندرويد | طهران",
-      description: "علي باكدل نيا - مطور ويب شامل ومطور أندرويد ذو خبرة في طهران. متخصص في .NET Core، كوتلين، رياكت، أنجولار، جافاسكريبت، تايبسكريبت. أكثر من ۵ سنوات خبرة في تطوير البرمجيات. متاح للمشاريع المستقلة.",
-      keywords: "علي باكدل نيا, مطور ويب شامل, مطور أندرويد, مطور .NET Core, مطور كوتلين, مطور رياكت, مطور أنجولار, مطور جافاسكريبت, مطور تايبسكريبت, مطور طهران, مطور إيران, مستقل, مطور ويب, مطور موبايل, مهندس برمجيات, طهران, إيران, معرض أعمال, سيرة ذاتية, مشاريع, علي فود, علي بول, تطبيق سايكو, دنارو",
-      ogTitle: "علي باكدل نيا | مطور ويب شامل | مطور أندرويد | طهران",
-      ogDescription: "علي باكدل نيا - مطور ويب شامل ومطور أندرويد ذو خبرة في طهران. متخصص في .NET Core، كوتلين، رياكت، أنجولار. أكثر من ۵ سنوات خبرة. متاح للمشاريع المستقلة.",
-      twitterTitle: "علي باكدل نيا | مطور ويب شامل | مطور أندرويد",
-      twitterDescription: "مطور ويب شامل ومطور أندرويد ذو خبرة في طهران. متخصص في .NET Core، كوتلين، رياكت، أنجولار. متاح للمشاريع المستقلة."
+      title: "زينب ايزدي | مطورة ويب شاملة | مطورة أندرويد | طهران",
+      description: "زينب ايزدي - مطورة ويب شاملة ومطورة أندرويد ذات خبرة في طهران. متخصصة في .NET Core، كوتلن، رياكت، أنجولار، جافاسكريبت، تايبسكريبت. أكثر من ۵ سنوات خبرة في تطوير البرمجيات. متاحة للمشاريع المستقلة.",
+      keywords: "زينب ايزدي, مطورة ويب شاملة, مطورة أندرويد, مطورة .NET Core, مطورة كوتلن, مطورة رياكت, مطورة أنجولار, مطورة جافاسكريبت, مطورة تايبسكريبت, مطورة طهران, مطورة إيران, مستقلة, مطورة ويب, مطورة موبايل, مهندسة برمجيات, طهران, إيران, معرض أعمال, سيرة ذاتية, مشاريع, علي فود, علي بول, تطبيق سايكو, دنارو",
+      ogTitle: "زينب ايزدي | مطورة ويب شاملة | مطورة أندرويد | طهران",
+      ogDescription: "زينب ايزدي - مطورة ويب شاملة ومطورة أندرويد ذات خبرة في طهران. متخصصة في .NET Core، كوتلن، رياكت، أنجولار. أكثر من ۵ سنوات خبرة. متاحة للمشاريع المستقلة.",
+      twitterTitle: "زينب ايزدي | مطورة ويب شاملة | مطورة أندرويد",
+      twitterDescription: "مطورة ويب شاملة ومطورة أندرويد ذات خبرة في طهران. متخصصة في .NET Core، كوتلن، رياكت، أنجولار. متاحة للمشاريع المستقلة."
     },
     de: {
-      title: "Ali Pakdelnia | Full Stack Entwickler | Android Entwickler | .NET Core | Kotlin | Teheran",
-      description: "Ali Pakdelnia - Erfahrener Full Stack Entwickler und Android Entwickler in Teheran. Experte für .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. Über 5 Jahre Erfahrung in der Softwareentwicklung. Verfügbar für Freelance-Projekte.",
-      keywords: "Ali Pakdelnia, Full Stack Entwickler, Android Entwickler, .NET Core Entwickler, Kotlin Entwickler, React Entwickler, Angular Entwickler, JavaScript Entwickler, TypeScript Entwickler, Teheran Entwickler, Iran Entwickler, Freelancer, Web Entwickler, Mobile Entwickler, Software Ingenieur, Teheran, Iran, Portfolio, Lebenslauf, Projekte, AliFood, AliPool, PsychoApp, Denaru",
-      ogTitle: "Ali Pakdelnia | Full Stack Entwickler | Android Entwickler | .NET Core | Kotlin",
-      ogDescription: "Ali Pakdelnia - Erfahrener Full Stack Entwickler und Android Entwickler in Teheran. Experte für .NET Core, Kotlin, React, Angular. Über 5 Jahre Erfahrung. Verfügbar für Freelance-Projekte.",
-      twitterTitle: "Ali Pakdelnia | Full Stack Entwickler | Android Entwickler",
-      twitterDescription: "Erfahrener Full Stack Entwickler und Android Entwickler in Teheran. Experte für .NET Core, Kotlin, React, Angular. Verfügbar für Freelance-Projekte."
+      title: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin | .NET Core | Kotlin | Teheran",
+      description: "Zeynab Izadi - Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. Über 5 Jahre Erfahrung in der Softwareentwicklung. Verfügbar für Freelance-Projekte.",
+      keywords: "Zeynab Izadi, Full Stack Entwicklerin, Android Entwicklerin, .NET Core Entwicklerin, Kotlin Entwicklerin, React Entwicklerin, Angular Entwicklerin, JavaScript Entwicklerin, TypeScript Entwicklerin, Teheran Entwicklerin, Iran Entwicklerin, Freelancerin, Web Entwicklerin, Mobile Entwicklerin, Software Ingenieurin, Teheran, Iran, Portfolio, Lebenslauf, Projekte, AliFood, AliPool, PsychoApp, Denaru",
+      ogTitle: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin | .NET Core | Kotlin",
+      ogDescription: "Zeynab Izadi - Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Über 5 Jahre Erfahrung. Verfügbar für Freelance-Projekte.",
+      twitterTitle: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin",
+      twitterDescription: "Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Verfügbar für Freelance-Projekte."
     }
   };
 

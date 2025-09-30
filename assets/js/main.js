@@ -1,5 +1,5 @@
 /**
-* Template Name: Ali Pakdelnia Portfolio
+* Template Name: Zeynab Izadi Portfolio
 * Template URL: https://alipakdelnia.github.io/
 * Updated: Jun 29 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
