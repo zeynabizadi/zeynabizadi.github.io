@@ -1,0 +1,165 @@
+/* Typed.js Cursor Styles */
+.typed-cursor {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.typed-cursor--blink {
+  animation: typedjsBlink 0.7s infinite;
+}
+
+@keyframes typedjsBlink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* RTL Support for Arabic and Persian */
+
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .header {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .main {
+  margin-left: auto;
+  margin-right: 300px;
+}
+
+[dir="rtl"] .header-toggle {
+  left: auto;
+  right: 20px;
+}
+
+[dir="rtl"] .navmenu ul {
+  padding-right: 0;
+}
+
+[dir="rtl"] .navmenu ul li {
+  text-align: right;
+}
+
+[dir="rtl"] .navmenu ul li a {
+  padding: 10px 20px 10px 15px;
+}
+
+[dir="rtl"] .navmenu ul li a i {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+[dir="rtl"] .bi-chevron-right::before {
+  content: "\f284";
+}
+
+[dir="rtl"] .bi-chevron-left::before {
+  content: "\f285";
+}
+
+[dir="rtl"] .language-switcher {
+  text-align: center;
+}
+
+[dir="rtl"] .section-title h2::before {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .section-title h2::after {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .progress .skill {
+  text-align: right;
+}
+
+[dir="rtl"] .resume-item ul {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+[dir="rtl"] .portfolio-filters {
+  padding-right: 0;
+}
+
+[dir="rtl"] .info-item {
+  text-align: right;
+}
+
+[dir="rtl"] .info-item i {
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+/* Mobile Responsive RTL */
+@media (max-width: 1199px) {
+  [dir="rtl"] .main {
+    margin-right: 0;
+  }
+  
+  [dir="rtl"] .header {
+    right: -300px;
+  }
+  
+  [dir="rtl"] .header.mobile-nav-active {
+    right: 0;
+  }
+}
+
+/* Typography RTL */
+[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3, [dir="rtl"] h4, [dir="rtl"] h5, [dir="rtl"] h6 {
+  text-align: right;
+}
+
+[dir="rtl"] p {
+  text-align: right;
+}
+
+/* Form RTL */
+[dir="rtl"] .form-control {
+  text-align: right;
+}
+
+[dir="rtl"] label {
+  text-align: right;
+}
+
+/* Button RTL */
+[dir="rtl"] .btn {
+  text-align: center;
+}
+
+/* Social Links RTL */
+[dir="rtl"] .social-links a {
+  margin: 0 0 0 10px;
+}
+
+/* Portfolio Filters RTL */
+[dir="rtl"] .portfolio-filters li {
+  margin: 0 0 0 20px;
+}
+
+/* Stats RTL */
+[dir="rtl"] .stats-item {
+  text-align: center;
+}
+
+/* Services RTL */
+[dir="rtl"] .service-item {
+  text-align: right;
+}
+
+[dir="rtl"] .service-item .icon {
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+/* Footer RTL */
+[dir="rtl"] .footer {
+  text-align: center;
+}
