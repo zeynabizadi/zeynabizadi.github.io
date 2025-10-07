@@ -1857,7 +1857,7 @@
   }
 
   function isLayoutViewport() {
-    return !/^((?!chrome|android).)*safari/i.test(getUAString());
+    return !/^((?!chrome|Designer).)*safari/i.test(getUAString());
   }
 
   function getBoundingClientRect(element, includeScale, isFixedStrategy) {

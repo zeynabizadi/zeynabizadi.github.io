@@ -15,12 +15,12 @@ const translations = {
     // Header & Navigation
     "hero_title": "Zeynab Izadi",
     "hero_subtitle": "I'm a",
-    "hero_typed_items": "Full Stack Developer,Android Developer,.NET Developer,Problem Solver,Freelancer",
+    "hero_typed_items": "Designer,Designer,.NET Developer,Problem Solver,Freelancer",
     
     // About Section
     "about_title": "About",
-    "about_description": "Experienced Full Stack Developer with expertise in both Android and web development. Currently working with multiple companies and accepting freelance projects. I specialize in creating comprehensive solutions across all platforms.",
-    "about_subtitle": "Full Stack Developer & Android Specialist",
+    "about_description": "Experienced Designer with expertise in both Designer and web development. Currently working with multiple companies and accepting freelance projects. I specialize in creating comprehensive solutions across all platforms.",
+    "about_subtitle": "Designer & Designer Specialist",
     
     // Personal Info
     "age_label": "Age:",
@@ -46,8 +46,8 @@ const translations = {
     // Skills
     "technical_skills_title": "Technical Skills",
     "technical_skills_description": "My technical expertise spans across multiple platforms and technologies, enabling me to deliver comprehensive solutions",
-    "fullstack_skill": "Full Stack Development",
-    "android_skill": "Android/Kotlin",
+    "fullstack_skill": "Designer Development",
+    "Designer_skill": "Designer/Kotlin",
     "web_skill": "Web Development",
     "javascript_skill": "JavaScript/TypeScript",
     "react_skill": "React/Angular",
@@ -74,7 +74,7 @@ const translations = {
     "resume_description": "My professional journey spans over a decade of software development, focusing on creating innovative solutions and delivering exceptional user experiences across multiple platforms.",
     "summary_title": "Summary",
     "summary_name": "Zeynab Izadi",
-    "summary_description": "Innovative Android developer with strong proficiency in Kotlin and extensive experience in building exceptional mobile applications. Passionate about technology and creating user-friendly, intuitive apps that seamlessly interact with device functionalities.",
+    "summary_description": "Innovative Designer with strong proficiency in Kotlin and extensive experience in building exceptional mobile applications. Passionate about technology and creating user-friendly, intuitive apps that seamlessly interact with device functionalities.",
     
     "education_title": "Education",
     "education_degree": "Bachelor of Mechanical Engineering (Mechatronics)",
@@ -87,28 +87,28 @@ const translations = {
     "achievement_description": "Awarded in the 11th marathon of mobile phone programming, demonstrating exceptional skills in mobile development and problem-solving.",
     
     "experience_title": "Professional Experience",
-    "experience_job1_title": "Full Stack Developer",
+    "experience_job1_title": "Designer",
     "experience_job1_period": "2023 - Present",
     "experience_job1_company": "Beniamin Company, Tehran, Iran",
     "experience_job1_description": "Leading full-stack development initiatives, creating scalable web applications using modern technologies and best practices.",
-    "experience_job2_title": "Android Developer, Kotlin Programmer",
+    "experience_job2_title": "Designer, Kotlin Programmer",
     "experience_job2_period": "2023 - 2024",
     "experience_job2_company": "Saze rahavard dena (denaru), Tehran, Iran",
-    "experience_job2_description": "Developed and maintained Android applications using Kotlin, focusing on user experience and performance optimization.",
+    "experience_job2_description": "Developed and maintained Designer applications using Kotlin, focusing on user experience and performance optimization.",
     
     // Portfolio
     "portfolio_title": "Portfolio",
     "portfolio_description": "A showcase of my recent projects demonstrating expertise in full-stack development, mobile applications, and innovative software solutions.",
     "portfolio_psychoapp_title": "PsychoApp",
-    "portfolio_psychoapp_desc": "Full Stack .NET Core Application",
+    "portfolio_psychoapp_desc": "Designer .NET Core Application",
     "portfolio_alifood_title": "AliFood",
-    "portfolio_alifood_desc": "Android Food Delivery App",
+    "portfolio_alifood_desc": "Designer Food Delivery App",
     "portfolio_alipool_title": "Ali Pool",
-    "portfolio_alipool_desc": "Android Pool Management App",
+    "portfolio_alipool_desc": "Designer Pool Management App",
     "portfolio_instagram_title": "Instagram Explore",
-    "portfolio_instagram_desc": "Android Glide Library Test Project",
+    "portfolio_instagram_desc": "Designer Glide Library Test Project",
     "portfolio_calculator_title": "Xiaomi Calculator",
-    "portfolio_calculator_desc": "Android Calculator App Clone",
+    "portfolio_calculator_desc": "Designer Calculator App Clone",
     
     // Contact
     "contact_title": "Contact",
@@ -144,12 +144,12 @@ const translations = {
     // Header & Navigation
     "hero_title": "زینب ایزدی",
     "hero_subtitle": "من یک",
-    "hero_typed_items": "برنامه‌نویس فول استک,توسعه‌دهنده اندروید,برنامه‌نویس .NET,حل‌کننده مشکلات,فریلنسر",
+    "hero_typed_items": "طراح دیجیتال فول استک,توسعه‌دهنده طراح دیجیتال,طراح دیجیتال .NET,حل‌کننده مشکلات,فریلنسر",
     
     // About Section
     "about_title": "درباره زینب ایزدی",
-    "about_description": "زینب ایزدی - برنامه‌نویس فول استک با تجربه در توسعه اندروید و وب. در حال حاضر با چندین شرکت همکاری می‌کنم و پروژه‌های فریلنسری می‌پذیرم. من در ایجاد راه‌حل‌های جامع در تمام پلتفرم‌ها تخصص دارم.",
-    "about_subtitle": "برنامه‌نویس فول استک و متخصص اندروید",
+    "about_description": "زینب ایزدی - طراح دیجیتال فول استک با تجربه در توسعه طراح دیجیتال و وب. در حال حاضر با چندین شرکت همکاری می‌کنم و پروژه‌های فریلنسری می‌پذیرم. من در ایجاد راه‌حل‌های جامع در تمام پلتفرم‌ها تخصص دارم.",
+    "about_subtitle": "طراح دیجیتال فول استک و متخصص طراح دیجیتال",
     
     // Personal Info
     "age_label": "سن:",
@@ -176,7 +176,7 @@ const translations = {
     "technical_skills_title": "مهارت‌های فنی زینب ایزدی",
     "technical_skills_description": "تخصص فنی من در چندین پلتفرم و تکنولوژی گسترش یافته است، که به من امکان ارائه راه‌حل‌های جامع را می‌دهد",
     "fullstack_skill": "توسعه فول استک",
-    "android_skill": "اندروید/کاتلین",
+    "Designer_skill": "طراح دیجیتال/کاتلین",
     "web_skill": "توسعه وب",
     "javascript_skill": "جاوااسکریپت/تایپ‌اسکریپت",
     "react_skill": "ری‌اکت/انگولار",
@@ -203,27 +203,27 @@ const translations = {
     "resume_description": "سفر حرفه‌ای من بیش از یک دهه توسعه نرم‌افزار را در بر می‌گیرد، با تمرکز بر ایجاد راه‌حل‌های نوآورانه و ارائه تجربیات کاربری استثنایی در چندین پلتفرم.",
     "summary_title": "خلاصه",
     "summary_name": "زینب ایزدی",
-    "summary_description": "توسعه‌دهنده نوآور اندروید با تسلط قوی در کاتلین و تجربه گسترده در ساخت برنامه‌های موبایل استثنایی. مشتاق فناوری و ایجاد برنامه‌های کاربرپسند و شهودی که به طور یکپارچه با عملکردهای دستگاه تعامل دارند.",
+    "summary_description": "توسعه‌دهنده نوآور طراح دیجیتال با تسلط قوی در کاتلین و تجربه گسترده در ساخت برنامه‌های موبایل استثنایی. مشتاق فناوری و ایجاد برنامه‌های کاربرپسند و شهودی که به طور یکپارچه با عملکردهای دستگاه تعامل دارند.",
     
     "education_title": "تحصیلات",
     "education_degree": "کارشناسی مهندسی مکانیک (مکاترونیک)",
     "education_period": "۲۰۱۵ - ۲۰۲۰",
     "education_school": "دانشگاه صنعتی اصفهان، ایران",
     "education_description": "فارغ‌التحصیل کارشناسی مهندسی مکاترونیک، کاوش در ادغام یکپارچه اصول مهندسی مکانیک، الکتریک و نرم‌افزار.",
-    "achievement_title": "دستاورد ماراتن برنامه‌نویسی",
+    "achievement_title": "دستاورد ماراتن طراح دیجیتالی",
     "achievement_period": "۲۰۲۳",
     "achievement_school": "فناوری اطلاعات و ارتباطات دانشگاه صنعتی شریف",
-    "achievement_description": "برنده یازدهمین ماراتن برنامه‌نویسی موبایل، نشان‌دهنده مهارت‌های استثنایی در توسعه موبایل و حل مسئله.",
+    "achievement_description": "برنده یازدهمین ماراتن طراح دیجیتالی موبایل، نشان‌دهنده مهارت‌های استثنایی در توسعه موبایل و حل مسئله.",
     
     "experience_title": "تجربه حرفه‌ای",
     "experience_job1_title": "توسعه‌دهنده فول استک",
     "experience_job1_period": "۲۰۲۳ - اکنون",
     "experience_job1_company": "شرکت بنیامین، تهران، ایران",
     "experience_job1_description": "رهبری ابتکارات توسعه فول استک، ایجاد برنامه‌های وب مقیاس‌پذیر با استفاده از فناوری‌های مدرن و بهترین شیوه‌ها.",
-    "experience_job2_title": "توسعه‌دهنده اندروید، برنامه‌نویس کاتلین",
+    "experience_job2_title": "توسعه‌دهنده طراح دیجیتال، طراح دیجیتال کاتلین",
     "experience_job2_period": "۲۰۲۳ - ۲۰۲۴",
     "experience_job2_company": "سازه رهورد دنا (دنارو)، تهران، ایران",
-    "experience_job2_description": "توسعه و نگهداری برنامه‌های اندروید با استفاده از کاتلین، با تمرکز بر تجربه کاربری و بهینه‌سازی عملکرد.",
+    "experience_job2_description": "توسعه و نگهداری برنامه‌های طراح دیجیتال با استفاده از کاتلین، با تمرکز بر تجربه کاربری و بهینه‌سازی عملکرد.",
     
     // Portfolio
     "portfolio_title": "نمونه کارها",
@@ -231,13 +231,13 @@ const translations = {
     "portfolio_psychoapp_title": "پسیکو اپ",
     "portfolio_psychoapp_desc": "برنامه فول استک .NET Core",
     "portfolio_alifood_title": "علی فود",
-    "portfolio_alifood_desc": "برنامه تحویل غذا اندروید",
+    "portfolio_alifood_desc": "برنامه تحویل غذا طراح دیجیتال",
     "portfolio_alipool_title": "علی پول",
-    "portfolio_alipool_desc": "برنامه مدیریت استخر اندروید",
+    "portfolio_alipool_desc": "برنامه مدیریت استخر طراح دیجیتال",
     "portfolio_instagram_title": "اکسپلور اینستاگرام",
-    "portfolio_instagram_desc": "پروژه تست کتابخانه Glide اندروید",
+    "portfolio_instagram_desc": "پروژه تست کتابخانه Glide طراح دیجیتال",
     "portfolio_calculator_title": "ماشین حساب شیائومی",
-    "portfolio_calculator_desc": "کلون برنامه ماشین حساب اندروید",
+    "portfolio_calculator_desc": "کلون برنامه ماشین حساب طراح دیجیتال",
     
     // Contact
     "contact_title": "تماس",
@@ -249,7 +249,7 @@ const translations = {
     "contact_email_title": "ایمیل به ما",
     "contact_email": "ali.pakdelnia77@gmail.com",
     "contact_achievement_title": "دستاورد",
-    "contact_achievement": "برنده یازدهمین ماراتن برنامه‌نویسی موبایل - دانشگاه صنعتی شریف ۲۰۲۳",
+    "contact_achievement": "برنده یازدهمین ماراتن طراح دیجیتالی موبایل - دانشگاه صنعتی شریف ۲۰۲۳",
     "contact_availability_title": "در دسترس بودن",
     "contact_availability": "در دسترس برای پروژه‌های فریلنسری و فرصت‌های تمام‌وقت",
     
@@ -305,7 +305,7 @@ const translations = {
     "technical_skills_title": "المهارات التقنية لزينب ايزدي",
     "technical_skills_description": "خبرتي التقنية تمتد عبر منصات وتقنيات متعددة، مما يتيح لي تقديم حلول شاملة",
     "fullstack_skill": "التطوير الشامل",
-    "android_skill": "أندرويد/كوتلين",
+    "Designer_skill": "أندرويد/كوتلين",
     "web_skill": "تطوير الويب",
     "javascript_skill": "جافاسكريبت/تايبسكريبت",
     "react_skill": "رياكت/أنجولار",
@@ -402,12 +402,12 @@ const translations = {
     // Header & Navigation
     "hero_title": "Zeynab Izadi",
     "hero_subtitle": "Ich bin ein",
-    "hero_typed_items": "Full Stack Entwickler,Android Entwickler,.NET Entwickler,Problemlöser,Freelancer",
+    "hero_typed_items": "Designer Entwickler,Designer Entwickler,.NET Entwickler,Problemlöser,Freelancer",
     
     // About Section
     "about_title": "Über Zeynab Izadi",
-    "about_description": "Erfahrener Full Stack Entwickler mit Expertise in Android- und Webentwicklung. Arbeite derzeit mit mehreren Unternehmen zusammen und nehme Freelance-Projekte an. Ich spezialisiere mich auf die Erstellung umfassender Lösungen für alle Plattformen.",
-    "about_subtitle": "Full Stack Entwickler & Android Spezialist",
+    "about_description": "Erfahrener Designer Entwickler mit Expertise in Designer- und Webentwicklung. Arbeite derzeit mit mehreren Unternehmen zusammen und nehme Freelance-Projekte an. Ich spezialisiere mich auf die Erstellung umfassender Lösungen für alle Plattformen.",
+    "about_subtitle": "Designer Entwickler & Designer Spezialist",
     
     // Personal Info
     "age_label": "Alter:",
@@ -433,8 +433,8 @@ const translations = {
     // Skills
     "technical_skills_title": "Technische Fähigkeiten von Zeynab Izadi",
     "technical_skills_description": "Meine technische Expertise erstreckt sich über mehrere Plattformen und Technologien, was mir ermöglicht, umfassende Lösungen zu liefern",
-    "fullstack_skill": "Full Stack Entwicklung",
-    "android_skill": "Android/Kotlin",
+    "fullstack_skill": "Designer Entwicklung",
+    "Designer_skill": "Designer/Kotlin",
     "web_skill": "Webentwicklung",
     "javascript_skill": "JavaScript/TypeScript",
     "react_skill": "React/Angular",
@@ -461,7 +461,7 @@ const translations = {
     "resume_description": "Meine berufliche Reise erstreckt sich über ein Jahrzehnt der Softwareentwicklung mit Fokus auf die Erstellung innovativer Lösungen und die Bereitstellung außergewöhnlicher Benutzererfahrungen auf mehreren Plattformen.",
     "summary_title": "Zusammenfassung",
     "summary_name": "Zeynab Izadi",
-    "summary_description": "Innovativer Android-Entwickler mit starker Kotlin-Kompetenz und umfangreicher Erfahrung im Aufbau außergewöhnlicher mobiler Anwendungen. Leidenschaftlich für Technologie und die Erstellung benutzerfreundlicher, intuitiver Apps, die nahtlos mit Gerätefunktionen interagieren.",
+    "summary_description": "Innovativer Designer-Entwickler mit starker Kotlin-Kompetenz und umfangreicher Erfahrung im Aufbau außergewöhnlicher mobiler Anwendungen. Leidenschaftlich für Technologie und die Erstellung benutzerfreundlicher, intuitiver Apps, die nahtlos mit Gerätefunktionen interagieren.",
     
     "education_title": "Ausbildung",
     "education_degree": "Bachelor of Mechanical Engineering (Mechatronik)",
@@ -474,28 +474,28 @@ const translations = {
     "achievement_description": "Ausgezeichnet beim 11. Marathon für mobile Programmierung, was außergewöhnliche Fähigkeiten in der mobilen Entwicklung und Problemlösung demonstriert.",
     
     "experience_title": "Berufserfahrung",
-    "experience_job1_title": "Full Stack Entwickler",
+    "experience_job1_title": "Designer Entwickler",
     "experience_job1_period": "2023 - Gegenwart",
     "experience_job1_company": "Beniamin Company, Teheran, Iran",
     "experience_job1_description": "Führe Full-Stack-Entwicklungsinitiativen an, erstelle skalierbare Webanwendungen mit modernen Technologien und bewährten Praktiken.",
-    "experience_job2_title": "Android Entwickler, Kotlin Programmierer",
+    "experience_job2_title": "Designer Entwickler, Kotlin Programmierer",
     "experience_job2_period": "2023 - 2024",
     "experience_job2_company": "Saze rahavard dena (denaru), Teheran, Iran",
-    "experience_job2_description": "Entwicklung und Wartung von Android-Anwendungen mit Kotlin, mit Fokus auf Benutzererfahrung und Leistungsoptimierung.",
+    "experience_job2_description": "Entwicklung und Wartung von Designer-Anwendungen mit Kotlin, mit Fokus auf Benutzererfahrung und Leistungsoptimierung.",
     
     // Portfolio
     "portfolio_title": "Portfolio",
     "portfolio_description": "Eine Ausstellung meiner aktuellen Projekte, die Expertise in Full-Stack-Entwicklung, mobilen Anwendungen und innovativen Softwarelösungen demonstriert.",
     "portfolio_psychoapp_title": "PsychoApp",
-    "portfolio_psychoapp_desc": "Full Stack .NET Core Anwendung",
+    "portfolio_psychoapp_desc": "Designer .NET Core Anwendung",
     "portfolio_alifood_title": "AliFood",
-    "portfolio_alifood_desc": "Android Food Delivery App",
+    "portfolio_alifood_desc": "Designer Food Delivery App",
     "portfolio_alipool_title": "Ali Pool",
-    "portfolio_alipool_desc": "Android Pool Management App",
+    "portfolio_alipool_desc": "Designer Pool Management App",
     "portfolio_instagram_title": "Instagram Explore",
-    "portfolio_instagram_desc": "Android Glide Library Test Projekt",
+    "portfolio_instagram_desc": "Designer Glide Library Test Projekt",
     "portfolio_calculator_title": "Xiaomi Calculator",
-    "portfolio_calculator_desc": "Android Calculator App Klon",
+    "portfolio_calculator_desc": "Designer Calculator App Klon",
     
     // Contact
     "contact_title": "Kontakt",
@@ -569,22 +569,22 @@ function changeLanguage(lang) {
 function updateSEOMetaTags(lang) {
   const seoData = {
     en: {
-      title: "Zeynab Izadi | Full Stack Developer | Android Developer | .NET Core | Kotlin | Tehran",
-      description: "Zeynab Izadi - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. 5+ years experience in software development. Available for freelance projects.",
-      keywords: "Zeynab Izadi, Full Stack Developer, Android Developer, .NET Core Developer, Kotlin Developer, React Developer, Angular Developer, JavaScript Developer, TypeScript Developer, Tehran Developer, Iran Developer, Freelance Developer, Web Developer, Mobile Developer, Software Engineer, Tehran, Iran, Portfolio, Resume, Projects, AliFood, AliPool, PsychoApp, Denaru",
-      ogTitle: "Zeynab Izadi | Full Stack Developer | Android Developer | .NET Core | Kotlin",
-      ogDescription: "Zeynab Izadi - Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular. 5+ years experience. Available for freelance projects.",
-      twitterTitle: "Zeynab Izadi | Full Stack Developer | Android Developer",
-      twitterDescription: "Experienced Full Stack Developer and Android Developer in Tehran. Expert in .NET Core, Kotlin, React, Angular. Available for freelance projects."
+      title: "Zeynab Izadi | Designer | Designer | .NET Core | Kotlin | Tehran",
+      description: "Zeynab Izadi - Experienced Designer and Designer in Tehran. Expert in .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. 5+ years experience in software development. Available for freelance projects.",
+      keywords: "Zeynab Izadi, Designer, Designer, .NET Core Developer, Kotlin Developer, React Developer, Angular Developer, JavaScript Developer, TypeScript Developer, Tehran Developer, Iran Developer, Freelance Developer, Web Developer, Mobile Developer, Software Engineer, Tehran, Iran, Portfolio, Resume, Projects, AliFood, AliPool, PsychoApp, Denaru",
+      ogTitle: "Zeynab Izadi | Designer | Designer | .NET Core | Kotlin",
+      ogDescription: "Zeynab Izadi - Experienced Designer and Designer in Tehran. Expert in .NET Core, Kotlin, React, Angular. 5+ years experience. Available for freelance projects.",
+      twitterTitle: "Zeynab Izadi | Designer | Designer",
+      twitterDescription: "Experienced Designer and Designer in Tehran. Expert in .NET Core, Kotlin, React, Angular. Available for freelance projects."
     },
     fa: {
-      title: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
-      description: "زینب ایزدی - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار، جاوااسکریپت، تایپ‌اسکریپت. بیش از ۵ سال تجربه در توسعه نرم‌افزار. در دسترس برای پروژه‌های فریلنسری.",
-      keywords: "زینب ایزدی, برنامه‌نویس فول استک, توسعه‌دهنده اندروید, برنامه‌نویس .NET Core, برنامه‌نویس کاتلین, برنامه‌نویس ری‌اکت, برنامه‌نویس انگولار, برنامه‌نویس جاوااسکریپت, برنامه‌نویس تایپ‌اسکریپت, برنامه‌نویس تهران, برنامه‌نویس ایران, فریلنسر, توسعه‌دهنده وب, توسعه‌دهنده موبایل, مهندس نرم‌افزار, تهران, ایران, نمونه کار, رزومه, پروژه‌ها, علی فود, علی پول, پسیکو اپ, دنارو",
-      ogTitle: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید | تهران",
-      ogDescription: "زینب ایزدی - برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. بیش از ۵ سال تجربه. در دسترس برای پروژه‌های فریلنسری.",
-      twitterTitle: "زینب ایزدی | برنامه‌نویس فول استک | توسعه‌دهنده اندروید",
-      twitterDescription: "برنامه‌نویس فول استک و توسعه‌دهنده اندروید با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. در دسترس برای پروژه‌های فریلنسری."
+      title: "زینب ایزدی | طراح دیجیتال فول استک | توسعه‌دهنده طراح دیجیتال | تهران",
+      description: "زینب ایزدی - طراح دیجیتال فول استک و توسعه‌دهنده طراح دیجیتال با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار، جاوااسکریپت، تایپ‌اسکریپت. بیش از ۵ سال تجربه در توسعه نرم‌افزار. در دسترس برای پروژه‌های فریلنسری.",
+      keywords: "زینب ایزدی, طراح دیجیتال فول استک, توسعه‌دهنده طراح دیجیتال, طراح دیجیتال .NET Core, طراح دیجیتال کاتلین, طراح دیجیتال ری‌اکت, طراح دیجیتال انگولار, طراح دیجیتال جاوااسکریپت, طراح دیجیتال تایپ‌اسکریپت, طراح دیجیتال تهران, طراح دیجیتال ایران, فریلنسر, توسعه‌دهنده وب, توسعه‌دهنده موبایل, مهندس نرم‌افزار, تهران, ایران, نمونه کار, رزومه, پروژه‌ها, علی فود, علی پول, پسیکو اپ, دنارو",
+      ogTitle: "زینب ایزدی | طراح دیجیتال فول استک | توسعه‌دهنده طراح دیجیتال | تهران",
+      ogDescription: "زینب ایزدی - طراح دیجیتال فول استک و توسعه‌دهنده طراح دیجیتال با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. بیش از ۵ سال تجربه. در دسترس برای پروژه‌های فریلنسری.",
+      twitterTitle: "زینب ایزدی | طراح دیجیتال فول استک | توسعه‌دهنده طراح دیجیتال",
+      twitterDescription: "طراح دیجیتال فول استک و توسعه‌دهنده طراح دیجیتال با تجربه در تهران. متخصص در .NET Core، کاتلین، ری‌اکت، انگولار. در دسترس برای پروژه‌های فریلنسری."
     },
     ar: {
       title: "زينب ايزدي | مطورة ويب شاملة | مطورة أندرويد | طهران",
@@ -596,13 +596,13 @@ function updateSEOMetaTags(lang) {
       twitterDescription: "مطورة ويب شاملة ومطورة أندرويد ذات خبرة في طهران. متخصصة في .NET Core، كوتلن، رياكت، أنجولار. متاحة للمشاريع المستقلة."
     },
     de: {
-      title: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin | .NET Core | Kotlin | Teheran",
-      description: "Zeynab Izadi - Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. Über 5 Jahre Erfahrung in der Softwareentwicklung. Verfügbar für Freelance-Projekte.",
-      keywords: "Zeynab Izadi, Full Stack Entwicklerin, Android Entwicklerin, .NET Core Entwicklerin, Kotlin Entwicklerin, React Entwicklerin, Angular Entwicklerin, JavaScript Entwicklerin, TypeScript Entwicklerin, Teheran Entwicklerin, Iran Entwicklerin, Freelancerin, Web Entwicklerin, Mobile Entwicklerin, Software Ingenieurin, Teheran, Iran, Portfolio, Lebenslauf, Projekte, AliFood, AliPool, PsychoApp, Denaru",
-      ogTitle: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin | .NET Core | Kotlin",
-      ogDescription: "Zeynab Izadi - Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Über 5 Jahre Erfahrung. Verfügbar für Freelance-Projekte.",
-      twitterTitle: "Zeynab Izadi | Full Stack Entwicklerin | Android Entwicklerin",
-      twitterDescription: "Erfahrene Full Stack Entwicklerin und Android Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Verfügbar für Freelance-Projekte."
+      title: "Zeynab Izadi | Designer Entwicklerin | Designer Entwicklerin | .NET Core | Kotlin | Teheran",
+      description: "Zeynab Izadi - Erfahrene Designer Entwicklerin und Designer Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular, JavaScript, TypeScript. Über 5 Jahre Erfahrung in der Softwareentwicklung. Verfügbar für Freelance-Projekte.",
+      keywords: "Zeynab Izadi, Designer Entwicklerin, Designer Entwicklerin, .NET Core Entwicklerin, Kotlin Entwicklerin, React Entwicklerin, Angular Entwicklerin, JavaScript Entwicklerin, TypeScript Entwicklerin, Teheran Entwicklerin, Iran Entwicklerin, Freelancerin, Web Entwicklerin, Mobile Entwicklerin, Software Ingenieurin, Teheran, Iran, Portfolio, Lebenslauf, Projekte, AliFood, AliPool, PsychoApp, Denaru",
+      ogTitle: "Zeynab Izadi | Designer Entwicklerin | Designer Entwicklerin | .NET Core | Kotlin",
+      ogDescription: "Zeynab Izadi - Erfahrene Designer Entwicklerin und Designer Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Über 5 Jahre Erfahrung. Verfügbar für Freelance-Projekte.",
+      twitterTitle: "Zeynab Izadi | Designer Entwicklerin | Designer Entwicklerin",
+      twitterDescription: "Erfahrene Designer Entwicklerin und Designer Entwicklerin in Teheran. Expertin für .NET Core, Kotlin, React, Angular. Verfügbar für Freelance-Projekte."
     }
   };
 

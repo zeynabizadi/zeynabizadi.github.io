@@ -114,7 +114,7 @@ class LanguageManager {
     this.updateElement('[data-translate="skills_title"]', lang.skills_title);
     this.updateElement('[data-translate="skills_description"]', lang.skills_description);
     this.updateElement('[data-translate="fullstack_dev"]', lang.fullstack_dev);
-    this.updateElement('[data-translate="android_kotlin"]', lang.android_kotlin);
+    this.updateElement('[data-translate="Designer_kotlin"]', lang.Designer_kotlin);
     this.updateElement('[data-translate="web_dev"]', lang.web_dev);
     this.updateElement('[data-translate="js_ts"]', lang.js_ts);
     this.updateElement('[data-translate="react_angular"]', lang.react_angular);

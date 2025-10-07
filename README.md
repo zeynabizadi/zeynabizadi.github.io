@@ -1,6 +1,6 @@
-# Zeynab Izadi - Full Stack Developer Portfolio 🚀
+# Zeynab Izadi - Designer Portfolio 🚀
 
-A modern, responsive, multi-language portfolio website showcasing my expertise as a Full Stack Developer and Android Developer. Built with cutting-edge technologies and optimized for SEO performance.
+A modern, responsive, multi-language portfolio website showcasing my expertise as a Designer and Designer. Built with cutting-edge technologies and optimized for SEO performance.
 
 ## 🌟 Key Features
 
